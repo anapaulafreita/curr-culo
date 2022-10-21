@@ -1,2 +1,2 @@
 # curriculo
-http://anapaulafreita.github.io.
+https://anapaulafreita.github.io/curr-culo/
