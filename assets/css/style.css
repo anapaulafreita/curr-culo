@@ -340,11 +340,11 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: rgb(61, 96, 100);
 }
 
 #hero h2 {
-  color: #eee;
+  color: rgb(61, 96, 100);
   margin-bottom: 10px;
   font-size: 24px;
   font-weight: 300;
@@ -390,7 +390,7 @@ section {
 }
 
 .section-bg {
-  background: linear-gradient(180deg, #f2f6f9 0%, #fff 100%);
+  background: linear-gradient(180deg, #d6ebf1 0%, #fff 100%);
 }
 
 .section-title {
@@ -532,7 +532,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/foto.jpg") center center no-repeat;
+  background: url("../img/ft.PNG") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -657,11 +657,12 @@ section {
   position: relative;
   overflow: hidden;
   background: #BFEBF1;
-  box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.2);
+  box-shadow: 0 0 29px 0 rgba(9, 10, 14, 0.2);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
   text-align: center;
   z-index: 1;
+  transition: all 0.3s ease-in-out;
 }
 
 .services .icon-box::before {
@@ -689,14 +690,14 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: #BFEBF1
+  background: #131414
   transition: all 0.3s ease-in-out;
 }
 
 .services .icon i {
   font-size: 36px;
   line-height: 1;
-  color: rgb(138, 118, 118);
+  color: rgb(22, 20, 20);
 }
 
 .services .title {
@@ -725,7 +726,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #BFEBF1
+  color: #1f2525
 }
 
 @media (max-width: 768px) {
@@ -1051,7 +1052,7 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #d43076;
+  border: 1px solid #377179;
 }
 
 .contact .social-links a:hover {
